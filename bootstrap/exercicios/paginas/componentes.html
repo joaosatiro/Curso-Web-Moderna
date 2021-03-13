@@ -56,6 +56,20 @@
 <hr>
 
 <!-- Progresso -->
+<div class="progress-bar mb-4">
+    <div class="progress-bar" style="width: 25%"></div>
+</div>
+
+<div class="progress-bar mb-4">
+    <div class="progress-bar progress-bar-striped bg-success" style="width: 50%"></div>
+</div>
+
+<div class="progress-bar mb-4" style="height: 40px;">
+    <div class="progress-bar" style="width: 15%"></div>
+    <div class="progress-bar bg-danger" style="width: 30%"></div>
+    <div class="progress-bar bg-info" style="width: 20%"></div>
+    <div class="progress-bar bg-warning" style="width: 25%"></div>
+</div>
 
 <h1 class="mt-5">3. Mensagens (Alertas) -
     <small>
@@ -65,6 +79,24 @@
 <hr>
 
 <!-- Alertas -->
+<div>
+    <div class="alert alert-success">
+        Operação realizada com Sucesso!
+    </div>
+    <div class="alert alert-warning">
+        <strong>Cuidado!</strong> Operação gerou impacto no estoque!
+    </div>
+    <div class="alert alert-danger">
+        <strong>Erro!</strong> Ocorreu um erro inesperado
+        <a href="#" class="alert-link">Mais detalhes</a>
+    </div>
+    <div class="alert alert-success">
+        <h4 class="alert-heading">Parabéns</h4>
+        <p>Processo realizado com sucesso</p>
+        <hr>
+        <p class="mb-0">Pode ficar orgulhoso!</p>
+    </div>
+</div>
 
 <h1 class="mt-5">4. Paginação -
     <small>
@@ -73,7 +105,28 @@
 </h1>
 <hr>
 
-<!-- Peginação -->
+<!-- Paginação -->
+<div>
+    <nav>
+        <ul class="pagination">
+            <li class="page-item">
+                <a href="#" class="page-link">Anterior</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">1</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">2</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">3</a>
+            </li>
+            <li class="page-item">
+                <a href="#" class="page-link">Próximo</a>
+            </li>
+        </ul>
+    </nav>
+</div>
 
 <h1 class="mt-5">5. Tooltip -
     <small>
@@ -83,6 +136,16 @@
 <hr>
 
 <!-- Tooltip -->
+<div>
+    <div class="alert alert-warning">
+        Precisa chamar uma função JS
+        <strong>E agora?</strong>
+    </div>
+
+    <button class="btn btn-danger" data-toggle="tooltip" data-placement="top" title="Pense antes!">
+        Excluir
+    </button>
+</div>
 
 <h1 class="mt-5">6. Slider -
     <small>
@@ -92,6 +155,23 @@
 <hr>
 
 <!-- Slider -->
+<div>
+    <div class="carousel slide" id="slider" data-ride="carousel">
+        <div class="carousel-inner bg-dark">
+            <div class="carousel-item active">
+                <img src="/imgs/slide1.png" alt="Slide1" class="d-block mx-auto">
+                <img src="/imgs/slide2.png" alt="Slide2" class="d-block mx-auto">
+                <img src="/imgs/slide3.png" alt="Slide3" class="d-block mx-auto">
+            </div>
+        </div>
+        <a href="#slider" class="corousel-controle-prev" data-slide="prev">
+            <span class="corousel-control-prev-icon"></span>
+        </a>
+        <a href="#slider" class="corousel-controle-next" data-slide="prev">
+            <span class="corousel-control-next-icon"></span>
+        </a>
+    </div>
+</div>
 
 <h1 class="mt-5">7. Accordion -
     <small>
@@ -101,7 +181,25 @@
 <hr>
 
 <!-- Accordion -->
+<div>
+    <div class="mb-5" id="accordion">
+        <div class="card">
+            <div class="card-header" id="pergunta1">
+                <h5 class="mb0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#resposta1">
+                        Quem é mais legal?
+                    </button>
+                </h5>
+            </div>
+            <div class="collapse" id="resposta1" data-parent="#accordion">
+                <div class="card-body">
+                    Posso dizer? :)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <script>
-    // ...
+    $('[data-toggle="tooltip"]').tooltip()
 </script>

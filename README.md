@@ -39,8 +39,8 @@ Status: ***Cursando***
 * Seção 15: Ajax
 * Seção 16: Gulp
 * Seção 17: Webpack
-* Seção 18: jQuery</s>
-* Seção 19: Bootstrap
+* Seção 18: jQuery
+* Seção 19: Bootstrap</s>
 * Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)
 * Seção 21: React
 * Seção 22: Projeto Calculadora
@@ -61,4 +61,4 @@ Status: ***Cursando***
 ## Cod3r
 Instrutor: ***Leonardo Moura Leitao***
 
-Para mais informações acessar https://www.cod3r.com.br/courses/web-moderno
+Para mais informações acessar: https://www.cod3r.com.br/courses/web-moderno
