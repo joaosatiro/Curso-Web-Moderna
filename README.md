@@ -40,8 +40,8 @@ Status: ***Cursando***
 * Seção 16: Gulp
 * Seção 17: Webpack
 * Seção 18: jQuery
-* Seção 19: Bootstrap</s>
-* Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)
+* Seção 19: Bootstrap
+* Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)</s>
 * Seção 21: React
 * Seção 22: Projeto Calculadora
 * Seção 23: Projeto Cadastro de Usuário
