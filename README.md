@@ -41,8 +41,8 @@ Status: ***Cursando***
 * Seção 17: Webpack
 * Seção 18: jQuery
 * Seção 19: Bootstrap
-* Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)</s>
-* Seção 21: React
+* Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)
+* Seção 21: React</s>
 * Seção 22: Projeto Calculadora
 * Seção 23: Projeto Cadastro de Usuário
 * Seção 24: VueJS
