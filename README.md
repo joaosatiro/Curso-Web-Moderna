@@ -43,8 +43,8 @@ Status: ***Cursando***
 * Seção 19: Bootstrap
 * Seção 20: Projeto Galeria (Bootstrap/jQuery/Webpack)
 * Seção 21: React
-* Seção 22: Projeto Calculadora</s>
-* Seção 23: Projeto Cadastro de Usuário
+* Seção 22: Projeto Calculadora
+* Seção 23: Projeto Cadastro de Usuário</s>
 * Seção 24: VueJS
 * Seção 25: Projeto VueJS
 * Seção 26: Projeto Calculadora (Vue)
