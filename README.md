@@ -45,9 +45,9 @@ Status: ***Cursando***
 * Seção 21: React
 * Seção 22: Projeto Calculadora
 * Seção 23: Projeto Cadastro de Usuário
-* Seção 24: VueJS</s>
+* Seção 24: VueJS
 * Seção 25: Projeto VueJS
-* Seção 26: Projeto Calculadora (Vue)
+* Seção 26: Projeto Calculadora (Vue)</s>
 * Seção 27: Projeto Monty Hall (Vue)
 * Seção 28: Aplicação Desktop com JavaScript, Electron JS e Vue JS
 * Seção 29: Angular 9
