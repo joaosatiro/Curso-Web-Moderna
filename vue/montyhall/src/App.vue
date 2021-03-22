@@ -75,6 +75,7 @@ body {
     margin-bottom: 10px;
     font-size: 2rem;
 }
+
 .doors {
     align-self: stretch;
     display: flex;
