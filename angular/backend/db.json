@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": "5.90"
     },
     {
       "id": 2,
@@ -21,14 +21,14 @@
       "id": 4
     },
     {
-      "name": "Produto de Teste",
-      "price": 125.25,
-      "id": 5
-    },
-    {
       "name": "Veio do form",
       "price": "9.99",
       "id": 6
+    },
+    {
+      "name": "Teste",
+      "price": "9.99",
+      "id": 7
     }
   ]
 }

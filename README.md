@@ -49,8 +49,8 @@ Status: ***Cursando***
 * Seção 25: Projeto VueJS
 * Seção 26: Projeto Calculadora (Vue)
 * Seção 27: Projeto Monty Hall (Vue)
-* Seção 28: Aplicação Desktop com JavaScript, Electron JS e Vue JS</s>
-* Seção 29: Angular 9
+* Seção 28: Aplicação Desktop com JavaScript, Electron JS e Vue JS
+* Seção 29: Angular 9</s>
 * Seção 30: Banco Relacional
 * Seção 31: Banco Não Relacional
 * Seção 32: Express
