@@ -52,8 +52,8 @@ Status: ***Cursando***
 * Seção 28: Aplicação Desktop com JavaScript, Electron JS e Vue JS
 * Seção 29: Angular 9
 * Seção 30: Banco Relacional
-* Seção 31: Banco Não Relacional</s>
-* Seção 32: Express
+* Seção 31: Banco Não Relacional
+* Seção 32: Express</s>
 * Seção 33: Projeto Base de Conhecimento Backend
 * Seção 34: Projeto Base de Conhecimento Frontend
 * Seção 35: Publicando uma Aplicação VueJS na Amazon
