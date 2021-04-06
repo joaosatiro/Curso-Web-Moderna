@@ -53,8 +53,8 @@ Status: ***Cursando***
 * Seção 29: Angular 9
 * Seção 30: Banco Relacional
 * Seção 31: Banco Não Relacional
-* Seção 32: Express</s>
-* Seção 33: Projeto Base de Conhecimento Backend
+* Seção 32: Express
+* Seção 33: Projeto Base de Conhecimento Backend</s>
 * Seção 34: Projeto Base de Conhecimento Frontend
 * Seção 35: Publicando uma Aplicação VueJS na Amazon
 * Seção 36: Conclusão Curso Desenvolvimento Web
