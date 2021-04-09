@@ -20,7 +20,7 @@
 * Express
 
 ## Progresso
-Status: ***Cursando***
+Status: ***Concluído***
 
 * <s>Seção 1: Introdução Curso Desenvolvimento Web
 * Seção 2: Configuração do Ambiente
@@ -54,10 +54,10 @@ Status: ***Cursando***
 * Seção 30: Banco Relacional
 * Seção 31: Banco Não Relacional
 * Seção 32: Express
-* Seção 33: Projeto Base de Conhecimento Backend</s>
+* Seção 33: Projeto Base de Conhecimento Backend
 * Seção 34: Projeto Base de Conhecimento Frontend
 * Seção 35: Publicando uma Aplicação VueJS na Amazon
-* Seção 36: Conclusão Curso Desenvolvimento Web
+* Seção 36: Conclusão Curso Desenvolvimento Web</s>
 ## Cod3r
 Instrutor: ***Leonardo Moura Leitao***
 
